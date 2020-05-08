@@ -215,7 +215,7 @@ blockquote::before {
 
 @media screen and (max-width: 800px) {
   .mobile-centered {
-    text-align: center;
+    text-align: center!important;
   }
 
   .teaser-row {
