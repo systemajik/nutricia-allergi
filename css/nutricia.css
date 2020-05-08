@@ -209,6 +209,9 @@ blockquote::before {
   transform: translateY(4px);
 }
 
+.copyright-footer {
+  text-align: left;
+}
 
 
 
@@ -232,6 +235,10 @@ blockquote::before {
 
   .nu-hero-image-mobile, .nu-hero-image-mobile img {
     height:35vh!important;
+  }
+
+  .copyright-footer {
+    text-align: center!important;
   }
 
 }
